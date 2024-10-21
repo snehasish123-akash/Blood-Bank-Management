@@ -29,17 +29,17 @@ NEUB Blood Donor
 </ul>
 
 # Contribution
-Pranta Sarker <br/>
-Topu Dash Roy <br/>
+Snehasish saha akash <br/>
+Mehedi <br/>
 Nusrat Khan
 
 # Author
-Pranta Sarker <br/>
+Snehasish saha akash <br/>
 Department of Computer Science and Engineering <br/>
 North East University Bangladesh <br/>
 Sylhet, Bangladesh <br/>
 <br/>
-Topu Dash Roy <br/>
+Mehedi <br/>
 Department of Computer Science and Engineering <br/>
 North East University Bangladesh <br/>
 Sylhet, Bangladesh <br/>
